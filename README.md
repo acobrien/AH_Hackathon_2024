@@ -1,3 +1,4 @@
+Sample data provided for accounts "Dr. John", "Dr. Jan", "Joe", and "Jerry".
 Doctor and Patient accounts can be created or removed.
 To create a doctor, you must enter a valid medical id.
 Medical id's will be generated in resources/medIds.txt.
