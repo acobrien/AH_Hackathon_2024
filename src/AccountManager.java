@@ -5,7 +5,7 @@ import java.util.*;
 public class AccountManager {
 
     private final Map<String, Account> accounts;
-    HashSet<String> medIds = new HashSet<>();
+    private final HashSet<String> medIds = new HashSet<>();
 
     // Constructor
     public AccountManager() {
